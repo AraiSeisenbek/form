@@ -1,9 +1,9 @@
 {
 "user":[
-   {"mail": "arai.test@", "password": "Arai2003@"},
-   {"mail": "nurai.test@", "password": "Arai2003@"},
-   {"mail": "rasul.test@", "password": "Arai2003@"},
-   {"mail": "arnur.test@", "password": "Arai2003@"},
-   {"mail": "aras.test@", "password": "Arai2003@"}
+   {"login": "arai", "mail": "arai.test@mail.ru", "password": "Arai2003@"},
+   {"login": "arai", "mail": "nurai.test@mail.ru", "password": "Arai2003@"},
+   {"login": "arai", "mail": "rasul.test@mail.ru", "password": "Arai2003@"},
+   {"login": "arai", "mail": "arnur.test@mail.ru", "password": "Arai2003@"},
+   {"login": "arai", "mail": "aras.test@mail.ru", "password": "Arai2003@"}
   ]
   }
